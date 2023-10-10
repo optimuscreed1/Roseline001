@@ -1,7 +1,7 @@
-# this repo contains my python journey
+# this repo contains my python journey!
 
-# its a journey well deserved
+# its a journey well deserved!
 
-# a thought well taken
+# a thought well taken!
 
-# python be cool to me
+# python be cool to me!
