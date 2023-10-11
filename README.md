@@ -1,6 +1,6 @@
 # this repo contains my python journey!
 
-# its a journey well deserved!
+# its a well deserved experience!
 
 # a thought well taken!
 
